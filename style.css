@@ -1,0 +1,131 @@
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #045faa;
+    color: white;
+  }
+
+  #customers td {
+      text-align: left;
+  }
+
+  input[type=text], select {
+      width: 20%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid rgb(184, 184, 184);
+      border-radius: 4px;
+      box-sizing: border-box;
+  }
+
+  
+
+  #customers {
+      margin: auto;
+      
+  }
+
+  ul{  
+    padding:0;  
+    background:rgb(185, 185, 185);  
+    font-family:Arial, sans serif;  
+    font-size:12px;  
+    text-transform:uppercase;
+}
+
+  li{  
+    display:inline-block;
+}
+
+  a{  
+    display:block;  
+    padding:10px;  
+    color:white;  
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+#companies {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+#companies td, #companies th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#companies tr:nth-child(even){background-color: #f2f2f2;}
+
+#companies tr:hover {background-color: #ddd;}
+
+#companies th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #045faa;
+  color: white;
+}
+
+#companies td {
+    text-align: left;
+}
+
+#companies {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#button {
+  background-color: rgb(208, 223, 238); /* Blue background */
+  border: none; /* Remove borders */
+  color: rgb(0, 0, 0); /* White text */
+  padding: 6px 8px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+#button:hover {
+  background-color: rgb(154, 173, 224);
+}
+
+
+
+
+
+
+
+body {
+  margin:50px 0px; padding:0px;
+  text-align:center;
+}
+
+
+
